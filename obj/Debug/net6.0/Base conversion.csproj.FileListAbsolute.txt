@@ -1,0 +1,14 @@
+C:\Users\flore\OneDrive\Desktop\New folder (2)\Base conversion\bin\Debug\net6.0\Base conversion.exe
+C:\Users\flore\OneDrive\Desktop\New folder (2)\Base conversion\bin\Debug\net6.0\Base conversion.deps.json
+C:\Users\flore\OneDrive\Desktop\New folder (2)\Base conversion\bin\Debug\net6.0\Base conversion.runtimeconfig.json
+C:\Users\flore\OneDrive\Desktop\New folder (2)\Base conversion\bin\Debug\net6.0\Base conversion.dll
+C:\Users\flore\OneDrive\Desktop\New folder (2)\Base conversion\bin\Debug\net6.0\Base conversion.pdb
+C:\Users\flore\OneDrive\Desktop\New folder (2)\Base conversion\obj\Debug\net6.0\Base conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flore\OneDrive\Desktop\New folder (2)\Base conversion\obj\Debug\net6.0\Base conversion.AssemblyInfoInputs.cache
+C:\Users\flore\OneDrive\Desktop\New folder (2)\Base conversion\obj\Debug\net6.0\Base conversion.AssemblyInfo.cs
+C:\Users\flore\OneDrive\Desktop\New folder (2)\Base conversion\obj\Debug\net6.0\Base conversion.csproj.CoreCompileInputs.cache
+C:\Users\flore\OneDrive\Desktop\New folder (2)\Base conversion\obj\Debug\net6.0\Base conversion.dll
+C:\Users\flore\OneDrive\Desktop\New folder (2)\Base conversion\obj\Debug\net6.0\refint\Base conversion.dll
+C:\Users\flore\OneDrive\Desktop\New folder (2)\Base conversion\obj\Debug\net6.0\Base conversion.pdb
+C:\Users\flore\OneDrive\Desktop\New folder (2)\Base conversion\obj\Debug\net6.0\Base conversion.genruntimeconfig.cache
+C:\Users\flore\OneDrive\Desktop\New folder (2)\Base conversion\obj\Debug\net6.0\ref\Base conversion.dll
